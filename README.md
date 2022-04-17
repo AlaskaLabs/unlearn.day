@@ -76,12 +76,27 @@ O objetivo desse repositório é expandir o conhecimento dos brasileiros sobre a
 ---
 
 ## Conhecimento Básico
+- [ ] Traduzir: [Blockchain Principle, Type & Application](https://medium.com/the-programmer/blockchain-principle-type-application-why-you-should-care-about-it-249417b516cc#:~:text=Blockchain%20Principles%20Which%20You%20All%20Should%20Know%3A&text=Blockchain%20is%20a%20P2P%20network,or%20can%20shut%20it%20down.)
+
+### Princípios de Blockchain: Por que blockchain é importante?
+:construction: ...
+
+### Tipos de Blockhain
+- [ ] Traduzir: [Types of Blockchain](https://devopedia.org/types-of-blockchains)
+
+- Publicas: Bitcoin, Ethereum
+- Privadas: Parcialmente descentralizadas
+- Consortium
+
+
 
 ## Wallets
 `PT-BR: Carteiras`
 
 ### Tipos de Wallet
-:construction: ...
+- Hot Wallets
+- Cold Wallets
+- Cold Storage / Vault
 
 ### Criando uma wallet na rede Ethereum
 :construction: ...
@@ -98,7 +113,15 @@ O objetivo desse repositório é expandir o conhecimento dos brasileiros sobre a
 ### Como escolher uma ledger?
 :construction: ...
 
+
+
 ## Block Explorer — Explorador de Blocos
+- :construction: O que é um Block Explorer?
+- :construction: Como usar o Etherscan.io: Explorador da rede Ethereum
+- :construction: Como usar o Solscan.io: Explorador da rede Solana
+- :construction: Como usar o FTMScan.io: Explorador da rede Fantom
+- :construction: Como usar o Tzstats.io: Explorador da rede Tezos
+
 
 ## DeFi - Decentralized Finance
 `PT-BR: Finanças Decentralizadas`
