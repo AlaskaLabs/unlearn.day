@@ -18,11 +18,29 @@ O objetivo desse repositório é expandir o conhecimento dos brasileiros sobre a
 - [Conhecimento Básico](#conhecimento-básico)
 - [Wallets (Carteiras)](#wallets-pt-br-carteiras)
     - [Tipos de wallets](#tipos-de-wallet): hot vs. cold
-    - [Criando uma wallet na rede Ethereum](#criando-uma-wallet-na-rede-ethereum)
-    - [Criando uma wallet na rede Solana](#criando-uma-wallet-na-rede-solana)
-    - [Criando uma wallet na rede Bitcoin](#criando-uma-wallet-na-rede-bitcoin)
+    - Rede Ethereum
+        - Principais wallets
+        - [Criando uma wallet na rede Ethereum](#criando-uma-wallet-na-rede-ethereum)
+    - Rede Fantom
+        - Principais wallets
+        - Criando uma wallet na rede Fantom
+    - Rede Solana
+        - Principais wallets
+        - [Criando uma wallet na rede Solana](#criando-uma-wallet-na-rede-solana)
+    - Rede Bitcoin
+        - Principais wallets
+        - [Criando uma wallet na rede Bitcoin](#criando-uma-wallet-na-rede-bitcoin)
+    - Rede Tezos
+        - Principais wallets
+        - Criando uma wallet na rede Tezos
     - [Proteção da sua wallet: como não ser hackeado](#protegendo-sua-wallet-como-não-ser-hackeado)
     - [Como escolher uma ledger?](#como-escolher-uma-ledger)
+- [Block Explorer (Explorador de Blocos)](#block-explorer--explorador-de-blocos)
+    - O que é um Block Explorer?
+    - [Como usar o Etherscan.io](): Explorador da rede Ethereum
+    - [Como usar o Solscan.io](): Explorador da rede Solana
+    - [Como usar o FTMScan.io](): Explorador da rede Fantom
+    - [Como usar o Tzstats.io](): Explorador da rede Tezos
 - [DeFi (Finanças Decentralizadas)](#defi---decentralized-finance)
     - O que é DeFi?
     - Qual a importância de DeFi?
@@ -31,10 +49,29 @@ O objetivo desse repositório é expandir o conhecimento dos brasileiros sobre a
 - [NFTs (Tokens Não Fungíveis)](#nfts---non-fungible-tokens)
     - O que são NFTs?
     - O que é possível de fazer com NFTs?
-    - Como comprar NFTs na rede Ethereum?
+    - Segurança de NFT: cuidados com Scams
+    - Marketplaces de NFTs: onde você compra NFTs
+    - Analytics Tools (Ferramentas de Análise)
+    - Rede Ethereum (ETH)
+        - Principais marketplaces
+        - Como comprar NFTs na rede Ethereum?
+        - Onde eu vejo minhas NFTs?
+        - Como proteger minhas NFTs?
     - Como comprar NFTs na rede Solana?
-    - Cuidados com scams
-    
+        - Principais marketplaces
+        - Como comprar NFTs na rede Solana?
+        - Onde eu vejo minhas NFTs?
+        - Como proteger minhas NFTs?
+    - Como comprar NFTs na rede Fantom?
+        - Principais marketplaces
+        - Como comprar NFTs na rede Fantom?
+        - Onde eu vejo minhas NFTs?
+        - Como proteger minhas NFTs?
+    - Como comprar NFTs na rede Tezos?
+        - Principais marketplaces
+        - Como comprar NFTs na rede Tezos?
+        - Onde eu vejo minhas NFTs?
+        - Como proteger minhas NFTs?
 
 ---
 
@@ -60,6 +97,8 @@ O objetivo desse repositório é expandir o conhecimento dos brasileiros sobre a
 
 ### Como escolher uma ledger?
 :construction: ...
+
+## Block Explorer — Explorador de Blocos
 
 ## DeFi - Decentralized Finance
 `PT-BR: Finanças Decentralizadas`
