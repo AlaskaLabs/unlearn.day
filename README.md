@@ -44,22 +44,32 @@ O objetivo desse repositório é expandir o conhecimento dos brasileiros sobre a
 `PT-BR: Carteiras`
 
 ### Tipos de Wallet
+:construction: ...
 
 ### Criando uma wallet na rede Ethereum
+:construction: ...
 
 ### Criando uma wallet na rede Solana
+:construction: ...
 
 ### Criando uma wallet na rede Bitcoin
+:construction: ...
 
 ### Protegendo sua Wallet: Como não ser hackeado?
+:construction: ...
 
 ### Como escolher uma ledger?
+:construction: ...
 
 ## DeFi - Decentralized Finance
 `PT-BR: Finanças Decentralizadas`
 
+:construction: ...
+
 ## NFTs - Non-Fungible Tokens
 `PT-BR: Tokens Não-Fungíveis`
+
+:construction: ...
 
 
 ---
@@ -69,14 +79,14 @@ O objetivo desse repositório é expandir o conhecimento dos brasileiros sobre a
 | Palavra | Definição |
 | :-- | :-- |
 | **Wallet** | `PT-BR: Carteira` Não é uma carteira de verdade. É uma camada de acesso (como uma chave) que você usa para se conectar com uma blockchain. Seus tokens não ficam na carteira. A sua carteira apenas tem acesso aos tokens que estão na rede pública.
-| **Hot Wallet** | `PT-BR: Carteira Quente` 
-| **Cold Wallet** | `PT-BR: Carteira Fria` 
-| **Cold Storage** or **Vault** | `PT-BR: Depósito Frio` 
-| **Token** | 
-| **DeFi** | 
-| **NFT** | 
-| **Ledger** | 
-| **Scam** | 
+| **Hot Wallet** | `PT-BR: Carteira Quente` :construction: ...
+| **Cold Wallet** | `PT-BR: Carteira Fria` :construction: ...
+| **Cold Storage** or **Vault** | `PT-BR: Depósito Frio` :construction: ...
+| **Token** | :construction: ...
+| **DeFi** | :construction: ...
+| **NFT** | :construction: ...
+| **Ledger** | :construction: ...
+| **Scam** | :construction: ...
 
 ---
 
