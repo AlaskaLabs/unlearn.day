@@ -66,7 +66,15 @@ O objetivo desse repositório é expandir o conhecimento dos brasileiros sobre a
 
 ## Dicionário Blockchain
 
-- **Wallet** `PT-BR: Carteira`
+- **Wallet** `PT-BR: Carteira` — Não é uma carteira de verdade. É uma camada de acesso (como uma chave) que você usa para se conectar com uma blockchain. Seus tokens não ficam na carteira. A sua carteira apenas tem acesso aos tokens que estão na rede pública.
+    - **Hot Wallet** `PT-BR: Carteira Quente` — 
+    - **Cold Wallet** `PT-BR: Carteira Fria` — 
+    - **Cold Storage** or **Vault** `PT-BR: Depósito Frio` — 
+- **Token** — 
+- **DeFi** — 
+- **NFT** — 
+- **Ledger** — 
+- **Scam** — 
 
 ---
 
