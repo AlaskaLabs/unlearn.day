@@ -78,6 +78,22 @@ O objetivo desse repositório é expandir o conhecimento dos brasileiros sobre a
 ## Conhecimento Básico
 - [ ] Traduzir: [Blockchain Principle, Type & Application](https://medium.com/the-programmer/blockchain-principle-type-application-why-you-should-care-about-it-249417b516cc#:~:text=Blockchain%20Principles%20Which%20You%20All%20Should%20Know%3A&text=Blockchain%20is%20a%20P2P%20network,or%20can%20shut%20it%20down.)
 
+### Princípios do Blockchain que todos vocês devem saber:
+
+1. **Descentralização :**
+Blockchain é uma rede P2P onde nenhum único participante (usuário) controla a transação, o poder é distribuído entre todos os participantes desta rede, o que significa que nenhum único participante pode invadir, manipular ou fechar a cadeia de blocos ou pode fechá-la. Esta rede de blocos devido a seu mecanismo distribuído (descentralizado) está livre de qualquer hack ou fraude.
+
+2. **Integridade:**
+Na rede baseada em blockchain, todos os participantes têm o direito de tomar decisões, aqui a confiança no sistema não é forçada, mas é totalmente guiada pela intuição do usuário. A integridade rigorosa é observada na forma como cada usuário é incentivado por seu esforço e também na forma como toda esta rede P2P funciona.
+
+> "Pela primeira vez, temos uma plataforma que garante a confiança nas transações, e... informações registradas, não importa como a outra parte age". — Tapscott
+
+3. **Criptografia:**
+Justo para todos Blockchain foi projetada com este princípio central para proporcionar um alto nível de segurança e autenticidade para o usuário. Para garantir a segurança e a integridade dos dados, ele usa o poder da criptografia. O mecanismo de transação Blockchain é favorável e gratificante para um usuário autêntico, ao mesmo tempo em que é muito severo para usuários imprudentes. Isso significa que o sistema Blockchain é justo para todos os que se comportam como bons usuários e os recompensam apropriadamente. Mas se você continuar a usá-lo com intenção errada, não será poupado e penalizado.
+
+4. **Segurança:**
+Sendo a Blockchain uma rede distribuída, não há um ponto central de falha e também nenhuma pessoa pode se comportar irresponsavelmente para danificar toda a cadeia da rede. O dano por causa de qualquer hack individual da senha limitará a essa única pessoa em si. Com o mecanismo de criptografia PKI (Public Key Infrastructure) de bloqueio, sua transação através da rede é altamente segura até que você seja um tolo ao compartilhar sua chave privada para a qual nenhuma tecnologia tem uma solução. Assim, você pode confiar amplamente na tecnologia Blockchain para garantir que suas transações sejam concluídas sem serem hackeadas.
+
 ### Princípios de Blockchain: Por que blockchain é importante?
 :construction: ...
 
